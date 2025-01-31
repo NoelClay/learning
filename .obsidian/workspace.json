@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "PROJECT/50일수학/Pasted image 20250131165415 1.png"
+                "file": "PROJECT/50일수학/Pasted image 20250131165415.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20250131165415 1"
+              "title": "Pasted image 20250131165415"
             }
           },
           {
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECT/50일수학/Pasted image 20250131165415 1.png"
+                "file": "PROJECT/50일수학/Pasted image 20250131165415.png"
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20250131165415 1"
+              "title": "Outline of Pasted image 20250131165415"
             }
           },
           {
@@ -210,7 +210,7 @@
   "active": "0a7256c8525b9cba",
   "lastOpenFiles": [
     "Pasted image 20250131165415.png",
-    "PROJECT/50일수학/Pasted image 20250131165415 1.png",
+    "PROJECT/50일수학/Pasted image 20250131165415.png",
     "template/linebreak.md",
     "PROJECT/50일수학/CH02 복소수.md",
     "Excalidraw/Drawing 2025-01-31 16.40.18.excalidraw.md",
