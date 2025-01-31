@@ -1,0 +1,10 @@
+{
+  "templater-obsidian:template/linebreak.md": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Enter"
+    }
+  ]
+}
