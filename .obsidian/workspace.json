@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20250131165415.png"
+                "file": "PROJECT/50일수학/Pasted image 20250131165415 1.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20250131165415"
+              "title": "Pasted image 20250131165415 1"
             }
           },
           {
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20250131165415.png"
+                "file": "PROJECT/50일수학/Pasted image 20250131165415 1.png"
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20250131165415"
+              "title": "Outline of Pasted image 20250131165415 1"
             }
           },
           {
@@ -207,15 +207,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ce09830b94cadb27",
+  "active": "0a7256c8525b9cba",
   "lastOpenFiles": [
-    "PROJECT/50일수학/CH02 복소수.md",
     "Pasted image 20250131165415.png",
+    "PROJECT/50일수학/Pasted image 20250131165415 1.png",
+    "template/linebreak.md",
+    "PROJECT/50일수학/CH02 복소수.md",
     "Excalidraw/Drawing 2025-01-31 16.40.18.excalidraw.md",
     "PROJECT/혼공컴운/CH06 메모리와 캐시메모리.md",
     "Excalidraw",
     "PROJECT/혼공컴운/ch05 CPU 성능 향상 기법.md",
-    "template/linebreak.md",
     "template",
     "Untitled Kanban.md",
     "PROJECT/50일수학",
