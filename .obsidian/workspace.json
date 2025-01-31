@@ -164,9 +164,19 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "5c7eb88f9b3aef96",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -187,7 +197,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "757aef43915d1943",
+  "active": "ce09830b94cadb27",
   "lastOpenFiles": [
     "PROJECT/50일수학/Untitled.md",
     "PROJECT/혼공컴운/ch05 CPU 성능 향상 기법.md",
