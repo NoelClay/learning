@@ -9,8 +9,10 @@
   ],
   "editor:toggle-inline-math": [
     {
-      "modifiers": [],
-      "key": "F2"
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
     }
   ]
 }
