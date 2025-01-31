@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -197,7 +197,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ce09830b94cadb27",
+  "active": "5c7eb88f9b3aef96",
   "lastOpenFiles": [
     "PROJECT/혼공컴운/ch05 CPU 성능 향상 기법.md",
     "PROJECT/혼공컴운/CH06 메모리와 캐시메모리.md",
