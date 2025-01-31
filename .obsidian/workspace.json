@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECT/혼공컴운/CH06 메모리와 캐시메모리.md",
+                "file": "PROJECT/혼공컴운/ch05 CPU 성능 향상 기법.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "CH06 메모리와 캐시메모리"
+              "title": "ch05 CPU 성능 향상 기법"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECT/혼공컴운/CH06 메모리와 캐시메모리.md"
+                "file": "PROJECT/혼공컴운/ch05 CPU 성능 향상 기법.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of CH06 메모리와 캐시메모리"
+              "title": "Outline of ch05 CPU 성능 향상 기법"
             }
           },
           {
@@ -199,8 +199,8 @@
   },
   "active": "ce09830b94cadb27",
   "lastOpenFiles": [
-    "template/linebreak.md",
     "PROJECT/혼공컴운/CH06 메모리와 캐시메모리.md",
+    "template/linebreak.md",
     "template",
     "Untitled Kanban.md",
     "PROJECT/혼공컴운/ch05 CPU 성능 향상 기법.md",
