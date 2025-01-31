@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECT/혼공컴운/CH06 메모리와 캐시메모리.md",
+                "file": "PROJECT/50일수학/CH02 복소수.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "CH06 메모리와 캐시메모리"
+              "title": "CH02 복소수"
+            }
+          },
+          {
+            "id": "323b771e78eef30a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-31 16.40.18.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-31 16.40.18.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,10 +152,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECT/혼공컴운/CH06 메모리와 캐시메모리.md"
+                "file": "Excalidraw/Drawing 2025-01-31 16.40.18.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of CH06 메모리와 캐시메모리"
+              "title": "Outline of Drawing 2025-01-31 16.40.18.excalidraw"
             }
           },
           {
@@ -197,14 +210,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5c7eb88f9b3aef96",
+  "active": "323b771e78eef30a",
   "lastOpenFiles": [
-    "PROJECT/혼공컴운/ch05 CPU 성능 향상 기법.md",
+    "PROJECT/50일수학/CH02 복소수.md",
+    "Excalidraw/Drawing 2025-01-31 16.40.18.excalidraw.md",
+    "Excalidraw",
     "PROJECT/혼공컴운/CH06 메모리와 캐시메모리.md",
+    "PROJECT/혼공컴운/ch05 CPU 성능 향상 기법.md",
     "template/linebreak.md",
     "template",
     "Untitled Kanban.md",
-    "PROJECT/50일수학/Untitled.md",
     "PROJECT/50일수학",
     "Untitled.canvas",
     "2025-01-08.md",
