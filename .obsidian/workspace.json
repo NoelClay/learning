@@ -25,11 +25,13 @@
             "id": "323b771e78eef30a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-31 16.40.18.excalidraw.md"
+                "file": "Excalidraw/Drawing 2025-01-31 16.40.18.excalidraw.md",
+                "mode": "preview",
+                "source": true
               },
-              "icon": "excalidraw-icon",
+              "icon": "lucide-file",
               "title": "Drawing 2025-01-31 16.40.18.excalidraw"
             }
           }
