@@ -6,5 +6,11 @@
       ],
       "key": "Enter"
     }
+  ],
+  "editor:toggle-inline-math": [
+    {
+      "modifiers": [],
+      "key": "F2"
+    }
   ]
 }
