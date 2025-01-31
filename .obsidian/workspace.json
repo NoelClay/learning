@@ -11,12 +11,14 @@
             "id": "ce09830b94cadb27",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "PROJECT/50일수학/Pasted image 20250131165415.png"
+                "file": "PROJECT/50일수학/CH02 복소수.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250131165415"
+              "icon": "lucide-file",
+              "title": "CH02 복소수"
             }
           },
           {
@@ -149,10 +151,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECT/50일수학/Pasted image 20250131165415.png"
+                "file": "PROJECT/50일수학/CH02 복소수.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20250131165415"
+              "title": "Outline of CH02 복소수"
             }
           },
           {
@@ -207,10 +209,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "0a7256c8525b9cba",
+  "active": "ce09830b94cadb27",
   "lastOpenFiles": [
-    "Pasted image 20250131165415.png",
     "PROJECT/50일수학/Pasted image 20250131165415.png",
+    "Pasted image 20250131165415.png",
     "template/linebreak.md",
     "PROJECT/50일수학/CH02 복소수.md",
     "Excalidraw/Drawing 2025-01-31 16.40.18.excalidraw.md",
