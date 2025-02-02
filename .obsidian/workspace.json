@@ -29,8 +29,8 @@
               "state": {
                 "file": "Excalidraw/Drawing 2025-01-31 16.40.18.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화되지 않음"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-31 16.40.18.excalidraw"
             }
           }
         ]
@@ -204,16 +204,18 @@
       "command-palette:명령어 팔레트 열기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "757aef43915d1943",
+  "active": "ce09830b94cadb27",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-01-31 16.40.18.excalidraw.md",
+    "PROJECT/50일수학/CH02 복소수.md",
     "PROJECT/50일수학/Pasted image 20250131165415.png",
     "Pasted image 20250131165415.png",
     "template/linebreak.md",
-    "PROJECT/50일수학/CH02 복소수.md",
-    "Excalidraw/Drawing 2025-01-31 16.40.18.excalidraw.md",
     "PROJECT/혼공컴운/CH06 메모리와 캐시메모리.md",
     "Excalidraw",
     "PROJECT/혼공컴운/ch05 CPU 성능 향상 기법.md",
