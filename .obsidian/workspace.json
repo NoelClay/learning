@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECT/혼공컴운/CH07 보조기억장치.md",
+                "file": "PROJECT/혼공컴운/CH08 입출력장치.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "CH07 보조기억장치"
+              "title": "CH08 입출력장치"
             }
           },
           {
@@ -230,8 +230,9 @@
   },
   "active": "8f4c0b1f7877566b",
   "lastOpenFiles": [
-    "PROJECT/혼공컴운/CH06 메모리와 캐시메모리.md",
     "PROJECT/혼공컴운/CH07 보조기억장치.md",
+    "PROJECT/혼공컴운/CH08 입출력장치.md",
+    "PROJECT/혼공컴운/CH06 메모리와 캐시메모리.md",
     "Excalidraw/Drawing 2025-01-31 16.40.18.excalidraw.md",
     "PROJECT/50일수학/CH02 복소수.md",
     "PROJECT/50일수학/Pasted image 20250131165415.png",
