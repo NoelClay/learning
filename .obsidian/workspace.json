@@ -105,14 +105,14 @@
             "id": "e3df8d8a1f5f282d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "PROJECT/혼공컴운/CH06 메모리와 캐시메모리.md",
-                "mode": "source",
-                "source": true
+                "aFile": "PROJECT/혼공컴운/CH07 보조기억장치.md",
+                "bFile": "PROJECT/혼공컴운/CH07 보조기억장치.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "CH06 메모리와 캐시메모리"
+              "icon": "diff",
+              "title": "Diff: CH07 보조기억장치"
             }
           }
         ],
@@ -295,10 +295,10 @@
   },
   "active": "e3df8d8a1f5f282d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "PROJECT/혼공컴운/CH08 입출력장치.md",
     "PROJECT/혼공컴운/CH07 보조기억장치.md",
     "PROJECT/혼공컴운/CH06 메모리와 캐시메모리.md",
+    "conflict-files-obsidian-git.md",
     "PROJECT/50일수학/Pasted image 20250131165415.png",
     "Pasted image 20250131165415.png",
     "template/linebreak.md",
