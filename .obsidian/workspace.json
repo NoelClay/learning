@@ -44,9 +44,79 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.8.3"
             }
+          },
+          {
+            "id": "de033fcfbd3a1c02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROJECT/혼공컴운/CH07 보조기억장치.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "CH07 보조기억장치"
+            }
+          },
+          {
+            "id": "3718d09ede3009ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROJECT/혼공컴운/CH08 입출력장치.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "CH08 입출력장치"
+            }
+          },
+          {
+            "id": "c5b65af2ff82c220",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROJECT/혼공컴운/CH08 입출력장치.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "CH08 입출력장치"
+            }
+          },
+          {
+            "id": "006ea715e50a015a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROJECT/혼공컴운/CH08 입출력장치.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "CH08 입출력장치"
+            }
+          },
+          {
+            "id": "e3df8d8a1f5f282d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROJECT/혼공컴운/CH06 메모리와 캐시메모리.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "CH06 메모리와 캐시메모리"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -223,14 +293,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2939731e89864905",
+  "active": "e3df8d8a1f5f282d",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "PROJECT/혼공컴운/CH08 입출력장치.md",
+    "PROJECT/혼공컴운/CH07 보조기억장치.md",
+    "PROJECT/혼공컴운/CH06 메모리와 캐시메모리.md",
     "PROJECT/50일수학/Pasted image 20250131165415.png",
     "Pasted image 20250131165415.png",
     "template/linebreak.md",
     "PROJECT/50일수학/CH02 복소수.md",
     "Excalidraw/Drawing 2025-01-31 16.40.18.excalidraw.md",
-    "PROJECT/혼공컴운/CH06 메모리와 캐시메모리.md",
     "Excalidraw",
     "PROJECT/혼공컴운/ch05 CPU 성능 향상 기법.md",
     "template",
