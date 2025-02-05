@@ -25,14 +25,14 @@
             "id": "4bdd30af1e507085",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "blog/license/license.",
-                "bFile": "blog/license/license.",
-                "aRef": ""
+                "file": "PROJECT/50일수학/CH03 방정식.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "diff",
-              "title": "Diff: license."
+              "icon": "lucide-file",
+              "title": "CH03 방정식"
             }
           }
         ],
@@ -109,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PROJECT/50일수학/CH03 방정식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for CH03 방정식"
             }
           },
           {
@@ -127,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PROJECT/50일수학/CH03 방정식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from CH03 방정식"
             }
           },
           {
@@ -155,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "PROJECT/50일수학/CH03 방정식.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of CH03 방정식"
             }
           },
           {
@@ -218,6 +221,11 @@
   },
   "active": "4bdd30af1e507085",
   "lastOpenFiles": [
+    "PROJECT/50일수학/Untitled.canvas",
+    "PROJECT/50일수학/CH03 방정식.md",
+    "PROJECT/50일수학/CH02 복소수.md",
+    "PROJECT/50일수학/pasted-image-20250131165415.png",
+    "PROJECT/50일수학/Pasted image 20250131165415.png",
     "README.md",
     "lib/search-index.json",
     "lib/metadata.json",
@@ -232,11 +240,9 @@
     "lib/scripts/minisearch.js",
     "lib/media/6155340132a851f6089e.svg",
     "pasted-image-20250131165415.png",
-    "PROJECT/50일수학/pasted-image-20250131165415.png",
     "template/linebreak.md",
     "PROJECT/혼공컴운/CH07 보조기억장치.md",
     "PROJECT/혼공컴운/CH06 메모리와 캐시메모리.md",
-    "PROJECT/50일수학/CH02 복소수.md",
     "Excalidraw/Drawing 2025-01-31 16.40.18.excalidraw.md",
     "index.html.md",
     "PROJECT/혼공컴운/ch05 CPU 성능 향상 기법.md",
@@ -245,7 +251,6 @@
     "blog/pasted-image-20250131165415.png",
     "blog/project/50일수학/pasted-image-20250131165415.png",
     "Untitled Kanban 1.md",
-    "PROJECT/50일수학/Pasted image 20250131165415.png",
     "PROJECT/혼공컴운/CH08 입출력장치.md",
     "conflict-files-obsidian-git.md",
     "Pasted image 20250131165415.png",
