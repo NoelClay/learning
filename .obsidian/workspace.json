@@ -109,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks"
             }
           },
           {
@@ -128,12 +127,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links"
             }
           },
           {
@@ -157,13 +155,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline"
             }
           },
           {
@@ -219,47 +216,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "501cef61553fd840",
-    "type": "floating",
-    "children": [
-      {
-        "id": "9fd16fa57f801447",
-        "type": "window",
-        "children": [
-          {
-            "id": "2d1d8d4b62c188df",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d4a94e0f2ee742b8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "README.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "README"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 510,
-        "y": 1200,
-        "width": 900,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "d4a94e0f2ee742b8",
+  "active": "4bdd30af1e507085",
   "lastOpenFiles": [
+    "README.md",
     "lib/search-index.json",
     "lib/metadata.json",
     "lib/styles/theme.css",
@@ -271,7 +230,6 @@
     "lib/scripts/graph-data.js",
     "lib/media/favicon.png",
     "lib/scripts/minisearch.js",
-    "lib/scripts/pixi.js",
     "lib/media/6155340132a851f6089e.svg",
     "pasted-image-20250131165415.png",
     "PROJECT/50일수학/pasted-image-20250131165415.png",
@@ -282,7 +240,6 @@
     "Excalidraw/Drawing 2025-01-31 16.40.18.excalidraw.md",
     "index.html.md",
     "PROJECT/혼공컴운/ch05 CPU 성능 향상 기법.md",
-    "README.md",
     "blog/lib/media/favicon.png",
     "blog/lib/media/6155340132a851f6089e.svg",
     "blog/pasted-image-20250131165415.png",
