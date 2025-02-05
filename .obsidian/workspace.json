@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECT/혼공컴운/CH07 보조기억장치.md",
-                "mode": "preview",
+                "file": "PROJECT/혼공컴운/ch05 CPU 성능 향상 기법.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "CH07 보조기억장치"
+              "title": "ch05 CPU 성능 향상 기법"
             }
           }
         ],
@@ -109,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECT/50일수학/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks"
             }
           },
           {
@@ -128,12 +127,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECT/50일수학/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links"
             }
           },
           {
@@ -143,7 +141,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -155,10 +155,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECT/50일수학/CH02 복소수.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CH02 복소수"
+              "title": "Outline"
             }
           },
           {
@@ -191,12 +193,11 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 570.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,16 +215,51 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4bdd30af1e507085",
+  "floating": {
+    "id": "501cef61553fd840",
+    "type": "floating",
+    "children": [
+      {
+        "id": "c344b71e9e1d1bdc",
+        "type": "window",
+        "children": [
+          {
+            "id": "11c271a2ba6effc6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8d92e1b371fa8052",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 510,
+        "y": 1200,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "8d92e1b371fa8052",
   "lastOpenFiles": [
-    "PROJECT/혼공컴운/CH06 메모리와 캐시메모리.md",
     "PROJECT/혼공컴운/ch05 CPU 성능 향상 기법.md",
-    "Untitled Kanban 1.md",
     "PROJECT/50일수학/CH02 복소수.md",
+    "PROJECT/혼공컴운/CH07 보조기억장치.md",
+    "PROJECT/혼공컴운/CH06 메모리와 캐시메모리.md",
+    "Untitled Kanban 1.md",
     "PROJECT/50일수학/Pasted image 20250131165415.png",
     "PROJECT/혼공컴운/CH08 입출력장치.md",
     "template/linebreak.md",
-    "PROJECT/혼공컴운/CH07 보조기억장치.md",
     "conflict-files-obsidian-git.md",
     "Pasted image 20250131165415.png",
     "Excalidraw/Drawing 2025-01-31 16.40.18.excalidraw.md",

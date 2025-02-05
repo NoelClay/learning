@@ -30,7 +30,7 @@
   "authorName": "",
   "vaultTitle": "learning",
   "exportPreset": "website",
-  "openAfterExport": false,
+  "openAfterExport": true,
   "graphAttractionForce": 1,
   "graphLinkLength": 10,
   "graphRepulsionForce": 150,
@@ -45,6 +45,13 @@
   "defaultMediaIcon": "lucide//file-image",
   "exportPath": "",
   "filesToExport": [
-    []
+    [
+      "Excalidraw",
+      "PROJECT",
+      "template",
+      "LICENSE",
+      "Pasted image 20250131165415.png",
+      "README.md"
+    ]
   ]
 }
