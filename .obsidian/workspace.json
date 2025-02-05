@@ -25,14 +25,14 @@
             "id": "4bdd30af1e507085",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "index.html.md",
-                "mode": "source",
-                "source": true
+                "aFile": "blog/license/license.",
+                "bFile": "blog/license/license.",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "index.html"
+              "icon": "diff",
+              "title": "Diff: license."
             }
           }
         ],
@@ -109,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.html.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index.html"
+              "title": "Backlinks"
             }
           },
           {
@@ -128,12 +127,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.html.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index.html"
+              "title": "Outgoing links"
             }
           },
           {
@@ -157,13 +155,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.html.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index.html"
+              "title": "Outline"
             }
           },
           {
@@ -219,7 +216,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4bdd30af1e507085",
+  "active": "0a7256c8525b9cba",
   "lastOpenFiles": [
     "index.html.md",
     "PROJECT/혼공컴운/ch05 CPU 성능 향상 기법.md",
