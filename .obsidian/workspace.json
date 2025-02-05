@@ -25,14 +25,14 @@
             "id": "4bdd30af1e507085",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "index.html.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "index.html"
             }
           }
         ],
@@ -109,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.html.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for index.html"
             }
           },
           {
@@ -127,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "index.html.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from index.html"
             }
           },
           {
@@ -155,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "index.html.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of index.html"
             }
           },
           {
@@ -218,6 +221,7 @@
   },
   "active": "4bdd30af1e507085",
   "lastOpenFiles": [
+    "index.html.md",
     "PROJECT/혼공컴운/ch05 CPU 성능 향상 기법.md",
     "blog/lib/search-index.json",
     "blog/lib/metadata.json",
