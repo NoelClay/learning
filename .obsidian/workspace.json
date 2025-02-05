@@ -109,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PROJECT/혼공컴운/ch05 CPU 성능 향상 기법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for ch05 CPU 성능 향상 기법"
             }
           },
           {
@@ -127,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PROJECT/혼공컴운/ch05 CPU 성능 향상 기법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from ch05 CPU 성능 향상 기법"
             }
           },
           {
@@ -155,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "PROJECT/혼공컴운/ch05 CPU 성능 향상 기법.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of ch05 CPU 성능 향상 기법"
             }
           },
           {
@@ -215,42 +218,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "501cef61553fd840",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c344b71e9e1d1bdc",
-        "type": "window",
-        "children": [
-          {
-            "id": "11c271a2ba6effc6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8d92e1b371fa8052",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 510,
-        "y": 1200,
-        "width": 900,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "8d92e1b371fa8052",
+  "active": "0a7256c8525b9cba",
   "lastOpenFiles": [
     "PROJECT/혼공컴운/ch05 CPU 성능 향상 기법.md",
     "PROJECT/50일수학/CH02 복소수.md",
