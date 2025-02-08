@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECT/혼공컴운/혼공컴운_4주차_CH09-CH11_운영체제, 프로세스, 스레드, CPU 스케줄링.md",
+                "file": "PROJECT/코딩 테스트 합격자 되기 자바/CH06 스택.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "혼공컴운_4주차_CH09-CH11_운영체제, 프로세스, 스레드, CPU 스케줄링"
+              "title": "CH06 스택"
             }
           }
         ],
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECT/혼공컴운/혼공컴운_4주차_CH09-CH11_운영체제, 프로세스, 스레드, CPU 스케줄링.md",
+                "file": "PROJECT/코딩 테스트 합격자 되기 자바/CH06 스택.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 혼공컴운_4주차_CH09-CH11_운영체제, 프로세스, 스레드, CPU 스케줄링"
+              "title": "Outline of CH06 스택"
             }
           },
           {
@@ -233,11 +233,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "757aef43915d1943",
+  "active": "de23e08d980b9d2a",
   "lastOpenFiles": [
+    "PROJECT/혼공컴운/혼공컴운_4주차_CH09-CH11_운영체제, 프로세스, 스레드, CPU 스케줄링.md",
     "PROJECT/혼공컴운/프로세스상태다이어그램.png",
     "Excalidraw/Drawing 2025-02-08 16.43.46.excalidraw.md",
-    "PROJECT/혼공컴운/혼공컴운_4주차_CH09-CH11_운영체제, 프로세스, 스레드, CPU 스케줄링.md",
     "PROJECT/혼공컴운/CH08 입출력장치.md",
     "template/linebreak.md",
     "PROJECT/코딩 테스트 합격자 되기 자바/CH06 스택.md",
