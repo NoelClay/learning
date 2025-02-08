@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECT/혼공컴운/CH08 입출력장치.md",
+                "file": "PROJECT/혼공컴운/혼공컴운_4주차_CH09-CH11_운영체제, 프로세스, 스레드, CPU 스케줄링.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CH08 입출력장치"
+              "title": "Outline of 혼공컴운_4주차_CH09-CH11_운영체제, 프로세스, 스레드, CPU 스케줄링"
             }
           },
           {
@@ -211,7 +211,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -233,7 +233,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "de23e08d980b9d2a",
+  "active": "757aef43915d1943",
   "lastOpenFiles": [
     "PROJECT/혼공컴운/프로세스상태다이어그램.png",
     "Excalidraw/Drawing 2025-02-08 16.43.46.excalidraw.md",
