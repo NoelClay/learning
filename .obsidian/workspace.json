@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECT/코딩 테스트 합격자 되기 자바/CH06 스택.md",
+                "file": "Obsidian/PROJECT/코딩 테스트 합격자 되기 자바/CH06 스택.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -182,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -203,7 +203,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e371ec71dded2225",
+  "active": "757aef43915d1943",
   "lastOpenFiles": [
     "Obsidian/PROJECT/50일수학/CH02 복소수.md",
     "Obsidian/PROJECT/코딩 테스트 합격자 되기 자바/CH06 스택.md",
