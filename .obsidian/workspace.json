@@ -229,8 +229,7 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
-      "obsidian-kanban:Create new board": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "5c7eb88f9b3aef96",
