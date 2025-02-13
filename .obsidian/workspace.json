@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECT/혼공컴운/CH08 입출력장치.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "CH08 입출력장치"
-            }
-          },
-          {
-            "id": "4bdd30af1e507085",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Obsidian/PROJECT/코딩 테스트 합격자 되기 자바/CH06 스택.md",
                 "mode": "source",
                 "source": true
@@ -35,8 +21,7 @@
               "title": "CH06 스택"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,10 +203,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4bdd30af1e507085",
+  "active": "e371ec71dded2225",
   "lastOpenFiles": [
-    "README.md",
+    "Obsidian/PROJECT/50일수학/CH02 복소수.md",
     "Obsidian/PROJECT/코딩 테스트 합격자 되기 자바/CH06 스택.md",
+    "README.md",
     "PROJECT/코딩 테스트 합격자 되기 자바/CH06 스택.md",
     "Obsidian/PROJECT/혼공컴운/프로세스상태다이어그램.png",
     "Obsidian/PROJECT/혼공컴운/혼공컴운_4주차_CH09-CH11_운영체제, 프로세스, 스레드, CPU 스케줄링.md",
@@ -238,7 +224,6 @@
     "Obsidian/PROJECT/50일수학/pasted-image-20250131165415.png",
     "Obsidian/PROJECT/50일수학/Pasted image 20250131165415.png",
     "Obsidian/PROJECT/50일수학/CH03 방정식.md",
-    "Obsidian/PROJECT/50일수학/CH02 복소수.md",
     "Obsidian/PROJECT/혼공컴운",
     "Obsidian/PROJECT/50일수학",
     "Obsidian/PROJECT/코딩 테스트 합격자 되기 자바",
