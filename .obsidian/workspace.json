@@ -25,32 +25,14 @@
             "id": "4bdd30af1e507085",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PROJECT/혼공컴운/혼공컴운_4주차_CH09-CH11_운영체제, 프로세스, 스레드, CPU 스케줄링.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "혼공컴운_4주차_CH09-CH11_운영체제, 프로세스, 스레드, CPU 스케줄링"
-            }
-          },
-          {
-            "id": "de23e08d980b9d2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PROJECT/코딩 테스트 합격자 되기 자바/CH06 스택.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "CH06 스택"
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,47 +214,55 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5c7eb88f9b3aef96",
+  "active": "0a7256c8525b9cba",
   "lastOpenFiles": [
-    "Obsidian",
-    "새 폴더",
-    "Gemfile",
-    "feed.xml",
-    "_config.yml",
+    "PROJECT/코딩 테스트 합격자 되기 자바/CH06 스택.md",
+    "Obsidian/PROJECT/혼공컴운/프로세스상태다이어그램.png",
+    "Obsidian/PROJECT/혼공컴운/혼공컴운_4주차_CH09-CH11_운영체제, 프로세스, 스레드, CPU 스케줄링.md",
+    "Obsidian/PROJECT/혼공컴운/ch08-입출력장치.html",
+    "Obsidian/PROJECT/혼공컴운/CH08 입출력장치.md",
+    "Obsidian/PROJECT/혼공컴운/ch07-보조기억장치.html",
+    "Obsidian/PROJECT/혼공컴운/CH07 보조기억장치.md",
+    "Obsidian/PROJECT/50일수학/ch02-복소수.html",
+    "Obsidian/PROJECT/혼공컴운/ch06-메모리와-캐시메모리.html",
+    "Obsidian/PROJECT/혼공컴운/CH06 메모리와 캐시메모리.md",
+    "Obsidian/PROJECT/혼공컴운/ch05-cpu-성능-향상-기법.html",
+    "Obsidian/PROJECT/혼공컴운/ch05 CPU 성능 향상 기법.md",
+    "Obsidian/PROJECT/50일수학/Untitled.canvas",
+    "Obsidian/PROJECT/50일수학/pasted-image-20250131165415.png",
+    "Obsidian/PROJECT/50일수학/Pasted image 20250131165415.png",
+    "Obsidian/PROJECT/50일수학/CH03 방정식.md",
+    "Obsidian/PROJECT/50일수학/CH02 복소수.md",
+    "Obsidian/PROJECT/코딩 테스트 합격자 되기 자바/CH06 스택.md",
+    "Obsidian/PROJECT/혼공컴운",
+    "Obsidian/PROJECT/50일수학",
+    "Obsidian/PROJECT/코딩 테스트 합격자 되기 자바",
+    "Obsidian/PROJECT",
+    "Obsidian/template/linebreak.md",
+    "Obsidian/template/linebreak.html",
+    "Obsidian/lib/media/favicon.png",
+    "Obsidian/lib/media/6155340132a851f6089e.svg",
+    "Obsidian/Excalidraw/Drawing 2025-02-08 16.43.46.excalidraw.md",
+    "Obsidian/Excalidraw/Drawing 2025-01-31 16.40.18.excalidraw.md",
+    "Obsidian/blog/project/50일수학/pasted-image-20250131165415.png",
+    "Obsidian/blog/lib/media/6155340132a851f6089e.svg",
+    "Obsidian/blog/lib/media/favicon.png",
+    "Obsidian/blog/pasted-image-20250131165415.png",
     "images/shakespeare.png",
-    "images",
-    "assets/js/jquery.mobilemenu.min.js",
-    "assets/js",
-    "assets/fonts/solarthemeicons.woff",
-    "assets/fonts/solarthemeicons.ttf",
-    "assets/fonts/solarthemeicons.svg",
-    "assets/fonts/solarthemeicons.eot",
     "PROJECT/50일수학/CH03 방정식.md",
     "PROJECT/50일수학/CH02 복소수.md",
-    "PROJECT/코딩 테스트 합격자 되기 자바/CH06 스택.md",
     "PROJECT/혼공컴운/혼공컴운_4주차_CH09-CH11_운영체제, 프로세스, 스레드, CPU 스케줄링.md",
-    "PROJECT/혼공컴운/프로세스상태다이어그램.png",
     "Excalidraw/Drawing 2025-02-08 16.43.46.excalidraw.md",
     "PROJECT/혼공컴운/CH08 입출력장치.md",
     "template/linebreak.md",
     "PROJECT/혼공컴운/CH07 보조기억장치.md",
     "PROJECT/혼공컴운/CH06 메모리와 캐시메모리.md",
     "PROJECT/50일수학/Untitled.canvas",
-    "PROJECT/50일수학/pasted-image-20250131165415.png",
-    "PROJECT/50일수학/Pasted image 20250131165415.png",
     "README.md",
-    "lib/media/favicon.png",
-    "lib/media/6155340132a851f6089e.svg",
-    "pasted-image-20250131165415.png",
     "Excalidraw/Drawing 2025-01-31 16.40.18.excalidraw.md",
     "index.html.md",
     "PROJECT/혼공컴운/ch05 CPU 성능 향상 기법.md",
-    "blog/lib/media/favicon.png",
-    "blog/lib/media/6155340132a851f6089e.svg",
     "Untitled Kanban 1.md",
-    "conflict-files-obsidian-git.md",
-    "Untitled Kanban.md",
-    "Untitled.canvas",
-    "2025-01-08.md"
+    "Untitled.canvas"
   ]
 }
