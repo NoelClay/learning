@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a55e402e51259648",
@@ -186,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 570.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,7 +203,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e371ec71dded2225",
+  "active": "0a7256c8525b9cba",
   "lastOpenFiles": [
     "Obsidian/PROJECT/혼공컴운/혼공컴운_5주차_CH12_CH13.md",
     "Obsidian/PDF/OperatingSystem/OpseratingSystemConcepts10th.md",
